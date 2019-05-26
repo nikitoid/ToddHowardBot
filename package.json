@@ -1,0 +1,16 @@
+{
+  "name": "toddhowardbot",
+  "version": "1.0.0",
+  "description": "VK bot \"Todd Howard\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nikitoid&Romeo",
+  "license": "MIT",
+  "dependencies": {
+    "nedb": "^1.8.0",
+    "rufus": "^0.5.7",
+    "vk-io": "^4.0.0-rc.17"
+  }
+}
