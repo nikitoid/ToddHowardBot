@@ -64,7 +64,7 @@ vk.updates.hear(/(Тодд|Todd) \\saveme/i, context => {
       }
     });
   }, reason => {
-    console.log('error!!!');
+    console.log('error!');
     console.log(reason);
   });
 });
